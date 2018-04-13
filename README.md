@@ -1,4 +1,4 @@
-# Projects
+# Learning Academy
 Drew's Learning Academy.
 
 This project is a JavaFX GUI application that is for children 7 - 10 years old. In one sentence this application can be described as software that helps children with their learning. Basically, there are 3 applications inside the software that are quizes and/or games for the user. Each application tests a different subject in school. 
